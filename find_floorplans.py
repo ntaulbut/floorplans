@@ -13,7 +13,7 @@ def alpha_range():
         yield chr(n)
 
 
-with open("buildings.json") as f:
+with open("data/building_codes.json") as f:
     campuses = json.load(f)
 
 floor_plans = {
@@ -40,5 +40,5 @@ for campus, buildings in campuses.items():
             else:
                 break
 
-with open("pdfs.json", "w") as f:
+with open("data/floorplans.json", "w") as f:
     json.dump(floor_plans, f, indent=2)
