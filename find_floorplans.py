@@ -41,4 +41,4 @@ for campus, buildings in campuses.items():
                 break
 
 with open("pdfs.json", "w") as f:
-    json.dump(floor_plans, f, indent=4)
+    json.dump(floor_plans, f, indent=2)
