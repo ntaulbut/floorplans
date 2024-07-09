@@ -1,0 +1,1022 @@
+{
+  "University Park": {
+    "02 Green Close - Mark Group House": {},
+    "04 Green Close - Nottingham House": {},
+    "06 Green Close - BASF": {},
+    "08 Green Close - EON": {},
+    "1 Willoughby Close": {},
+    "10 Green Close - Tarmac": {},
+    "12 Green close - Tarmac 2": {},
+    "2 Willoughby Close": {},
+    "3 Willoughby Close": {},
+    "3G Pitch - University Park Sports Centre": {},
+    "4 Willoughby Close": {},
+    "5 Willoughby Close": {},
+    "Abbey House": {},
+    "Ancaster 2002 (Foston Court extension)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2107aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2107ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2107ca.pdf"
+    },
+    "Ancaster Bungalow": {},
+    "Ancaster Hall Extension (Eresby Court)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2103aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2103ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2103ca.pdf"
+    },
+    "Ancaster Hall Garages & Cycle Shed": {},
+    "Ancaster Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2100aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2100ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2100ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/2100da.pdf"
+    },
+    "Ancaster Hall Substation": {},
+    "Ancaster Lodge": {},
+    "Anechoeic Chamber": {},
+    "Arts Centre Department of Music": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1502aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1502ba.pdf"
+    },
+    "Beeston Hall Phase 1": {},
+    "Beeston Hall Phase 2": {},
+    "Beeston Hall Substation": {},
+    "Boiler House Gas Meter": {},
+    "Boiler House Workshop": {},
+    "Botany Greenhouse (New)": {},
+    "Botany Greenhouse (Old)": {},
+    "Botany Greenhouse (Pt Brick)": {},
+    "Bowling Pavilion": {},
+    "Built Env Centre for 3D Design": {},
+    "Busy Bees Nursery": {},
+    "Cavendish 2002 New Extension (Hardwick Court)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2116aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2116ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2116ca.pdf"
+    },
+    "Cavendish Hall Deputy Warden Flat": {},
+    "Cavendish Hall Extension (Chatsworth Court)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2115aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2115ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2115ca.pdf"
+    },
+    "Cavendish Hall Garages": {},
+    "Cavendish Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2110aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2110ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2110ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/2110da.pdf"
+    },
+    "Cavendish Hall Substation & Cycle Shed": {},
+    "Central Boiler House": {},
+    "Centre for Biomolecular Sciences (CBS)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1353aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1353ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1353ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1353da.pdf"
+    },
+    "Centre for Biomolecular Sciences 4 (CBS)": {},
+    "Chemistry - New Solvent Store": {},
+    "Chemistry - Store": {},
+    "Chemistry - Store 2": {},
+    "Chemistry - Woodworking Shop": {},
+    "Chemistry Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1261aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1261ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1261ca.pdf"
+    },
+    "Cherry Tree Lodge": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1131aa.pdf"
+    },
+    "CHP Building": {},
+    "Coates Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1292aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1292ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1292ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1292da.pdf"
+    },
+    "Coates Road Auditorium": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1354aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1354ba.pdf"
+    },
+    "Cripps Annexe": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2171aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2171ba.pdf"
+    },
+    "Cripps Garage": {},
+    "Cripps Hall (Main)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2170aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2170ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2170ca.pdf"
+    },
+    "Cripps Hall Block S": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2174aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2174ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2174ca.pdf"
+    },
+    "Cripps Hall Block T & U": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2173aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2173ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2173ca.pdf"
+    },
+    "Cripps Hall Block V & W": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2172aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2172ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2172ca.pdf"
+    },
+    "Cripps Health Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2225aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2225ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2225ca.pdf"
+    },
+    "Cripps House": {},
+    "Cripps North Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1241aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1241ba.pdf"
+    },
+    "Cripps South Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1242aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1242ba.pdf"
+    },
+    "D H Lawrence Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1631aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1631ba.pdf"
+    },
+    "David Ross Sports Village": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1221aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1221ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1221ca.pdf"
+    },
+    "Day Nursery": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1551aa.pdf"
+    },
+    "Derby Hall Dining Hall/Common Room/Wardens house": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2122aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2122ba.pdf"
+    },
+    "Derby Hall Longnor Block": {},
+    "Derby Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2120aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2120ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2120ca.pdf"
+    },
+    "Derby Hall Matlock House": {},
+    "Derby Hall Warden House": {},
+    "East Lodge": {},
+    "East Midlands Conference Centre (EMCC)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1481aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1481ba.pdf"
+    },
+    "Electrical Engineering Garage": {},
+    "Engineering and Science Learning Centre (ESLC)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1661aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1661ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1661ca.pdf"
+    },
+    "Environmental Education Centre EEC (Studios) - Built Env": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1439aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1439ba.pdf"
+    },
+    "Florence Boot Close 1": {},
+    "Florence Boot Close 2": {},
+    "Florence Boot Close 3": {},
+    "Florence Boot Close 4": {},
+    "Florence Boot Close 5": {},
+    "Florence Boot Hall Garage & Cycle Shed": {},
+    "Florence Boot Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2130aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2130ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2130ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/2130da.pdf"
+    },
+    "Florence Boot Hall Warden House": {},
+    "Gardeners Store 1": {},
+    "Gardeners Store 2": {},
+    "Gas Meter Building": {},
+    "George Green Library": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1281aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1281ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1281ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1281da.pdf",
+      "e": "https://www.nottingham.ac.uk/estates/documents/accessplans/1281ea.pdf",
+      "f": "https://www.nottingham.ac.uk/estates/documents/accessplans/1281fa.pdf"
+    },
+    "Hallward Library": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1171aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1171ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1171ca.pdf"
+    },
+    "Hallward Library SS": {},
+    "Hearing Sciences Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1401aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1401ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1401ca.pdf"
+    },
+    "Highfield House": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1471aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1471ba.pdf"
+    },
+    "Hugh Stewart Hall Main Building": {},
+    "Hugh Stewart House (former Wardens House)": {},
+    "Hugh Stewart New Hall": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2182aa.pdf"
+    },
+    "Hugh Stewart Wardens Garage": {},
+    "Humanities": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1671aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1671ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1671ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1671da.pdf"
+    },
+    "ITRC (Innovative Technology Research Centre)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1641aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1641ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1641ca.pdf"
+    },
+    "Keighton Auditorium (adjacent to Mathematical Sciences)": {},
+    "L2 Laboratories": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1301aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1301ba.pdf"
+    },
+    "L3 Laboratories": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1311aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1311ba.pdf"
+    },
+    "L4 Laboratories": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1321aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1321ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1321ca.pdf"
+    },
+    "Law & Social Sciences Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1151aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1151ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1151ca.pdf"
+    },
+    "Lenton & Wortley Hall Block 1": {},
+    "Lenton & Wortley Hall Block 12": {},
+    "Lenton & Wortley Hall Block 6": {},
+    "Lenton & Wortley Hall Block 7": {},
+    "Lenton & Wortley Hall Block 8": {},
+    "Lenton & Wortley Hall Blocks 2,3,4,5": {},
+    "Lenton & Wortley Hall Blocks 9,10,11": {},
+    "Lenton & Wortley Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2140aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2140ba.pdf"
+    },
+    "Lenton & Wortly Hall Porters Lodge": {},
+    "Lenton Abbey Flat 1": {},
+    "Lenton Abbey Flat 2": {},
+    "Lenton Abbey Flat 2a": {},
+    "Lenton Abbey Flat 3": {},
+    "Lenton Abbey Flat 4": {},
+    "Lenton Abbey Flat 5": {},
+    "Lenton Abbey Flat 6": {},
+    "Lenton Abbey Flat 7": {},
+    "Lenton Abbey Flat 8": {},
+    "Lenton Abbey Flat 9 (The Cottage)": {},
+    "Lenton Eaves (UNSSC Club)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1461aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1461ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1461ca.pdf"
+    },
+    "Lenton Eaves Lodge": {},
+    "Lenton Eaves Outbuilding": {},
+    "Lenton Fields - PLAY CENTRE": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2163aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2163ba.pdf"
+    },
+    "Lenton Fields - Store": {},
+    "Lenton Firs Lodge E": {},
+    "Lenton Firs Lodge W": {},
+    "Lenton Firs Main Bldg - Built Env": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1431aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1431ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1431ca.pdf"
+    },
+    "Lenton Grove": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1211aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1211ba.pdf"
+    },
+    "Lenton Grove Cottage": {},
+    "Lenton Hurst": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2411aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2411ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2411ca.pdf"
+    },
+    "Lenton Hurst Cottage 1": {},
+    "Lenton Hurst Cottage 2": {},
+    "Lenton Lodge": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2251aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2251ba.pdf"
+    },
+    "Lenton Mount Cottages (1 & 2)": {},
+    "Library Road Cycle Store": {},
+    "Life Sciences": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1341aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1341ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1341ca.pdf"
+    },
+    "Life Sciences Link": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1334aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1334ba.pdf"
+    },
+    "Life Sciences Substation": {},
+    "Lincoln Hall House 1 (block A)": {},
+    "Lincoln Hall House 2 (blks B,C,D,E)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2155aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2155ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2155ca.pdf"
+    },
+    "Lincoln Hall House 3 (Block F)": {},
+    "Lincoln Hall House 4 (blks G,H,I,J,K,L)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2153aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2153ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2153ca.pdf"
+    },
+    "Lincoln Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2150aa.pdf"
+    },
+    "Lincoln House": {},
+    "Lower Cripps Hall (Old Cripps Health Centre)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1231aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1231ba.pdf"
+    },
+    "Manufacturing Engineering Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1371aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1371ba.pdf"
+    },
+    "Marmont Centre - Built Env": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1434aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1434ba.pdf"
+    },
+    "Mathematical Sciences": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1561aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1561ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1561ca.pdf"
+    },
+    "Molecular Spectroscopy Lab (was Surface Science Unit)": {},
+    "Monica Partridge Building": {},
+    "MRI Substation": {},
+    "New Cottage": {},
+    "New Theatre": {},
+    "Nightingale Close 1": {},
+    "Nightingale Close 2": {},
+    "Nightingale Close 3": {},
+    "Nightingale Close 4": {},
+    "Nightingale Hall Garages": {},
+    "Nightingale Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2160aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2160ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2160ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/2160da.pdf",
+      "e": "https://www.nottingham.ac.uk/estates/documents/accessplans/2160ea.pdf",
+      "f": "https://www.nottingham.ac.uk/estates/documents/accessplans/2160fa.pdf"
+    },
+    "North Entrance Gatehouse": {},
+    "Nottingham Conferences Cottage": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1482aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1482ba.pdf"
+    },
+    "Nottingham Lakeside Arts": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1501aa.pdf"
+    },
+    "Orchard Hotel": {},
+    "Paton Cottage/The Stables Annexe - Built Env": {},
+    "Paton House - Built Env": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1441aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1441ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1441ca.pdf"
+    },
+    "Pavement Research Building (PRB)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1621aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1621ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1621ca.pdf"
+    },
+    "Pharmacy": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1333aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1333ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1333ca.pdf"
+    },
+    "Physics Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1251aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1251ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1251ca.pdf"
+    },
+    "Physics Substation": {},
+    "Plant Growth Lab": {},
+    "Plant Room - Built Env": {},
+    "Pope Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1291aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1291ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1291ca.pdf"
+    },
+    "Portland Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1111aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1111ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1111ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1111da.pdf",
+      "e": "https://www.nottingham.ac.uk/estates/documents/accessplans/1111ea.pdf"
+    },
+    "Psychology": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1332aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1332ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1332ca.pdf"
+    },
+    "Redcourt Cottage 1": {},
+    "Redcourt Cottage 2": {},
+    "Redcourt Flat 1": {},
+    "Redcourt Flat 2": {},
+    "Redcourt Flat 3": {},
+    "Redcourt Wardens House": {},
+    "Renewable Energy House (David Wilson House)": {},
+    "Rutland Hall - L Block": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2196aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2196ba.pdf"
+    },
+    "Rutland Hall Extension - K Block": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2195aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2195ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2195ca.pdf"
+    },
+    "Rutland Hall Garages, Laundry & Cycle Shed": {},
+    "Rutland Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2190aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2190ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2190ca.pdf"
+    },
+    "Rutland Hall Warden House": {},
+    "Sherwood Hall (North Wing)": {},
+    "Sherwood Hall Block B (blks G,H,J,K,L,M)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2201aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2201ba.pdf"
+    },
+    "Sherwood Hall Bursars Bunglow": {},
+    "Sherwood Hall Garages": {},
+    "Sherwood Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2200aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2200ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2200ca.pdf"
+    },
+    "Sherwood Hall New Extension (Blocks N & O)": {},
+    "Sherwood Hall Warden House": {},
+    "Sir Clive Granger Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1201aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1201ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1201ca.pdf"
+    },
+    "Sir Peter Mansfield MRI Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1491aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1491ba.pdf"
+    },
+    "Solvent Store": {},
+    "South Entrance Gatehouse": {},
+    "Substation 1 - UP": {},
+    "Sustainable Research Bldg - Built Env": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1436aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1436ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1436ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1436da.pdf"
+    },
+    "Swimming Pool": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1571aa.pdf"
+    },
+    "The Boots Science Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1581aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1581ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1581ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/1581da.pdf"
+    },
+    "The Bungalow - Willoughby Drive": {},
+    "The Hemsley - Lenton Mount": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1181aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1181ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1181ca.pdf"
+    },
+    "The Orchards": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1161aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1161ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1161ca.pdf"
+    },
+    "Tower": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1271aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1271ba.pdf"
+    },
+    "Tower Substation": {},
+    "Trent Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1101aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1101ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1101ca.pdf"
+    },
+    "Trent/Hallward Plant (adj to New Theatre)": {},
+    "Waste Chemical Store": {},
+    "West Entrance Gatehouse": {},
+    "West Lodge": {},
+    "Willoughby Close Staff Garage": {},
+    "Willoughby Hall Cycle Shed": {},
+    "Willoughby Hall Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/2210aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/2210ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/2210ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/2210da.pdf",
+      "e": "https://www.nottingham.ac.uk/estates/documents/accessplans/2210ea.pdf",
+      "f": "https://www.nottingham.ac.uk/estates/documents/accessplans/2210fa.pdf"
+    },
+    "Wolfson Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1421aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1421ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/1421ca.pdf"
+    },
+    "Wolfson Chemical Store": {},
+    "Workshop/Z Block - Built Env": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/1432aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/1432ba.pdf"
+    },
+    "Wortley Close Garages": {},
+    "Wortley Hall Close 1": {},
+    "Wortley Hall Close 2": {},
+    "Wortley Hall Close 3": {},
+    "Wortley Hall Close 4": {},
+    "Wortley Hall Close 5": {},
+    "Wortley House (Lenton & Wortley extension)": {}
+  },
+  "Sutton Bonnington": {
+    "3G Pitch - Sutton Bonington Sports Centre": {},
+    "Agriculture Storage & Process Building": {},
+    "Agronomy Glasshouses": {},
+    "Agronomy Store & Workshop": {},
+    "Banbury Building": {},
+    "Barton Hall": {},
+    "BBSRC Greenhouse": {},
+    "Bioenergy and Brewing Science": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5781aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5781ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5781ca.pdf"
+    },
+    "Boiler House": {},
+    "Bonington Hall Cycle Shed": {},
+    "Bonington Hall Laundrette": {},
+    "Bonington Hall Warden House": {},
+    "Cambridge Glasshouse 1": {},
+    "Cambridge Glasshouse 2": {},
+    "Cambridge Glasshouse 3": {},
+    "CDSI Barn (Straw Building)": {},
+    "CDSI Barn 1": {},
+    "CDSI Barn 2": {},
+    "CDSI Calf Building": {},
+    "CDSI Calf Building 2": {},
+    "CDSI Farm House": {},
+    "CDSI Flexible Barn": {},
+    "CDSI Heifer Building": {},
+    "CDSI Nutrition Barn": {},
+    "CDSI Reception": {},
+    "CDSI Youngstock Building 1": {},
+    "CDSI Youngstock Building 2": {},
+    "Centre for Global Virus Research": {},
+    "Chemical Store": {},
+    "Chick Metabolism": {},
+    "Clinical Building (vet School)": {},
+    "Cycle Store - North Lab": {},
+    "Cycle Store - South Lab": {},
+    "Demonstration Hall": {},
+    "Diamond Woods": {},
+    "Diesel Store": {},
+    "Dishley House": {},
+    "DMU Isolation Box": {},
+    "Dry Sow House": {},
+    "Eviton House": {},
+    "Faculty Glasshouse": {},
+    "Farm Implement Shed": {},
+    "Farm Office & Workshop": {},
+    "Field 25 Portakabin": {},
+    "Food Hall (C Store/Rushcliffe)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5081aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5081ba.pdf"
+    },
+    "Food Science Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5701aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5701ba.pdf"
+    },
+    "FutureCrop Glasshouse 1": {},
+    "FutureCrop Glasshouse 2": {},
+    "FutureCrop Glasshouse 3": {},
+    "Gardeners Store (Old Kjeldahl)": {},
+    "Gateway Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5771aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5771ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5771ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/5771da.pdf"
+    },
+    "Glasshouse": {},
+    "Glasshouse Store": {},
+    "Goat House": {},
+    "Graduate Centre SB": {},
+    "Hathern House": {},
+    "Hounsfield Facility (Rhizosphere)": {},
+    "Kegworth House": {},
+    "Keith Campbell Building (The Firs)": {},
+    "Kingston House": {},
+    "Lecture Block": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5101aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5101ba.pdf"
+    },
+    "Lockington House": {},
+    "Main Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5011aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5011ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5011ca.pdf"
+    },
+    "Melton Lane Building A": {},
+    "Melton Lane Building B": {},
+    "Melton Lane Building C": {},
+    "Melton Lane Building D": {},
+    "Melton Lane Building E": {},
+    "Melton Lane Building F": {},
+    "Melton Lane Sheep Tunnel": {},
+    "Melton Lane Sheep Tunnel 2": {},
+    "Melton Lane Silo 1": {},
+    "Melton Lane Silo 2": {},
+    "Metabolism 1": {},
+    "Metabolism 3": {},
+    "Mill and Store": {},
+    "Mill, Store & Metabolism 2": {},
+    "Music Room & Climbing Wall (Old Squash Courts)": {},
+    "NCB Glasshouse": {},
+    "New Grain Barn": {},
+    "New Grain Drier": {},
+    "New Mill": {},
+    "Normanton House": {},
+    "North Laboratory": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5091aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5091ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5091ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/5091da.pdf"
+    },
+    "Old Grain Drier": {},
+    "Pasture Lane": {},
+    "Phytotron (Old Growth Env Bld)": {},
+    "Pig Nutrition": {},
+    "Pig Physiology": {},
+    "Piggery Pig Pens": {},
+    "Plant Science store": {},
+    "Plant Sciences Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5711aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5711ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5711ca.pdf"
+    },
+    "Pony Shed - St Michaels Flats": {},
+    "Potato Store": {},
+    "Potting Shed": {},
+    "Ratcliffe House": {},
+    "Rempstone House": {},
+    "Seed Vernalisation": {},
+    "Sewage Pump House": {},
+    "Shared Substation SB": {},
+    "Simpson Glasshouse": {},
+    "Slaughter House": {},
+    "Soar Lane": {},
+    "South Laboratory": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5051aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5051ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5051ca.pdf"
+    },
+    "South Laboratory Annexe": {},
+    "Sports Centre SB": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5951aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5951ba.pdf"
+    },
+    "Sports Hall SB": {},
+    "Stanford Hall": {},
+    "Substation 1 - SB": {},
+    "Substation 3 - SB": {},
+    "Substation 4 - SB": {},
+    "The Barn": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5075aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5075ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5075ca.pdf"
+    },
+    "The Dairy Metabolism Unit (DMU)": {},
+    "The Elms": {},
+    "The Elms - Veterinary Pathology Annex": {},
+    "The Elms Annex": {},
+    "The Limes": {},
+    "The Willows": {},
+    "Toilet Block": {},
+    "Vet School": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/5721aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/5721ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/5721ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/5721da.pdf"
+    },
+    "Vet School Bin Store": {},
+    "Vet School Decay Store": {},
+    "Vet School Indoor Arena": {},
+    "Vet School Stables": {},
+    "Vet School Substation": {},
+    "Wymeswold House": {},
+    "Zouch Hall": {}
+  },
+  "Jubilee Campus": {
+    "3G Pitch - Jubilee Sports Centre": {},
+    "Advanced Manufacturing Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7450aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7450ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7450ca.pdf"
+    },
+    "Advanced Manufacturing Waste & Bin Store": {},
+    "Aerospace Technology Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7380aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7380ba.pdf"
+    },
+    "Aspire Sculpture": {},
+    "Bonded Warehouses": {},
+    "Business School North": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7020aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7020ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7020ca.pdf"
+    },
+    "Business School North Substation": {},
+    "Business School South": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7080aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7080ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7080ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7080da.pdf"
+    },
+    "Business School South Auditorium": {},
+    "Carlton Furniture": {},
+    "Computer Science Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7040aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7040ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7040ca.pdf"
+    },
+    "Computer Science Building Substation": {},
+    "Cycle Store - adj to Si Yuan CCCS": {},
+    "Dearing Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7050aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7050ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7050ca.pdf"
+    },
+    "Energy Technologies Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7360aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7360ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7360ca.pdf"
+    },
+    "Exchange Cycle Store": {},
+    "Gatehouse Lodge": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7470aa.pdf"
+    },
+    "GSK - Carbon Neutral Laboratory for Sustainable Chemistry": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7430aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7430ba.pdf"
+    },
+    "Ingenuity Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7440aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7440ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7440ca.pdf"
+    },
+    "Institute of Mental Health": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7370aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7370ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7370ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7370da.pdf"
+    },
+    "Jubilee Campus Gatehouse": {},
+    "Jubilee Conference Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7211aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7211ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7211ca.pdf"
+    },
+    "Melton Hall (PG)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7110aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7110ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7110ca.pdf"
+    },
+    "Newark Hall": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7130aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7130ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7130ca.pdf"
+    },
+    "Power Electronic And Machine Centre (New Build)": {},
+    "RAD Building": {},
+    "RAD Cycle Store": {},
+    "Romax Cycle Shed": {},
+    "Romax Technology Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7390aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7390ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7390ca.pdf"
+    },
+    "Si Yuan Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7410aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7410ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7410ca.pdf"
+    },
+    "Southwell Hall": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7120aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7120ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7120ca.pdf"
+    },
+    "Sports Centre Cycle Store": {},
+    "Sports Centre JC": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7301aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7301ba.pdf"
+    },
+    "Starbucks Caf\u00e9": {},
+    "The Amenities Building Substation": {},
+    "The Atrium - Central Catering": {},
+    "The Exchange": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7030aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7030ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7030ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7030da.pdf"
+    },
+    "The Exchange Substation 1": {},
+    "The Exchange Tank/Pump Room": {},
+    "The Nottingham Geospatial Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7350aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7350ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7350ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7350da.pdf"
+    },
+    "The Scout Hut": {},
+    "The Sir Colin Campbell Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7340aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7340ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7340ca.pdf"
+    },
+    "The Sir Harry & Lady Djanogly LRC": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7060aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7060ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7060ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7060da.pdf"
+    },
+    "Units 1-3 Genesis Park": {},
+    "Woolpack House": {},
+    "XU Yafen Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7330aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7330ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7330ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7330da.pdf"
+    },
+    "Yang Fujia Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/7320aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/7320ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/7320ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/7320da.pdf",
+      "e": "https://www.nottingham.ac.uk/estates/documents/accessplans/7320ea.pdf"
+    }
+  },
+  "King's Meadow Campus": {
+    "Kings Meadow (KMC)": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/6901aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/6901ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/6901ca.pdf"
+    }
+  },
+  "Ningbo China": {
+    "Admin Building (China)": {},
+    "Auditorium (Ningbo Campus)": {},
+    "Centre for Sustainable Energy Technologies (CSET)": {},
+    "Science and Engineering Building": {},
+    "Sports Centre (Ch)": {},
+    "Student Services Building": {},
+    "Teaching Building": {}
+  },
+  "Malaysia": {
+    "Block A - Administration Building": {},
+    "Block B - Science/Engineering Building": {},
+    "Block C - Engineering/Science Building": {},
+    "Block D - Engineering Building": {},
+    "Block E - Social Science Building": {},
+    "Block F - Central Teaching Building": {},
+    "Block F2 - Computer Centre": {},
+    "Block F3 - Central Teaching 2": {},
+    "Block G - Library": {},
+    "Block H - Student Association": {},
+    "Block K - Sports Complex": {},
+    "Block N - Engineering Research Building": {}
+  },
+  "Other": {
+    "14 Thyra Grove": {},
+    "15 Greenfield Street": {},
+    "16 College Road (The Farm House)": {},
+    "17 Greenfield Street": {},
+    "18 College Road": {},
+    "19 Greenfield Street": {},
+    "198 Lower Regent Street": {},
+    "2 Melton Lane": {},
+    "20 College Road": {},
+    "20 Melton Lane": {},
+    "21 Greenfield Street": {},
+    "22 College Road": {},
+    "22 Melton Lane": {},
+    "23 Greenfield Street": {},
+    "24 College Road": {},
+    "24 Highfield Road": {},
+    "24 Montpelier Road": {},
+    "26 College Road": {},
+    "28 College Road": {},
+    "30 College Road": {},
+    "32 College Road": {},
+    "32 Highfield Road": {},
+    "34 Highfield Road": {},
+    "37 Clifton Boulevard": {},
+    "37 Greenfield Street": {},
+    "38 College Road": {},
+    "38 Highfield Road": {},
+    "4 Melton Lane": {},
+    "40 College Road": {},
+    "42 College Road": {},
+    "43 College Road": {},
+    "44 College Road": {},
+    "45 College Road": {},
+    "46 Beeston Road": {},
+    "46 College Road": {},
+    "47 College Road": {},
+    "48 College Road": {},
+    "50 College Road": {},
+    "52 College Road": {},
+    "6 Highfield Road": {},
+    "6 Melton Lane": {},
+    "66 Beeston Road": {},
+    "66 Highfield Road": {},
+    "68 Highfield Road": {},
+    "7 Greenfield Street": {},
+    "72 Broadgate House": {},
+    "74 Broadgate": {},
+    "74 Highfield Road": {},
+    "8 Highfield Road": {},
+    "8 Melton Lane": {},
+    "84 Highfield Road": {},
+    "Boathouse (TrentSide North)": {},
+    "Bramcote Woods": {},
+    "Church Tower": {},
+    "City Hospital - (Main Hospital, Physio Building)": {},
+    "City Hospital Clinical Sciences Building": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/3325aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/3325ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/3325ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/3325da.pdf"
+    },
+    "City Hospital Maternity Unit (New)": {},
+    "City Hospital Renal/Oncology Building": {},
+    "Derby Med School at Royal Derby Hosp Centre": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/3561aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/3561ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/3561ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/3561da.pdf"
+    },
+    "Derby School of Nursing": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/3571aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/3571ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/3571ca.pdf"
+    },
+    "Glasgow Royal Infirmary University Tower": {},
+    "Green Store Shed Bunny Farm": {},
+    "Grove Farm - Cottage 1": {},
+    "Grove Farm - Cottage 2": {},
+    "Highfields Bungalow": {},
+    "Highfields Pavilion": {},
+    "Highfields Sports": {},
+    "Hockey Pitch": {},
+    "Mansfield School of Nursing Kings Mill Hospital": {},
+    "Medical School": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/3101aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/3101ba.pdf",
+      "c": "https://www.nottingham.ac.uk/estates/documents/accessplans/3101ca.pdf",
+      "d": "https://www.nottingham.ac.uk/estates/documents/accessplans/3101da.pdf",
+      "e": "https://www.nottingham.ac.uk/estates/documents/accessplans/3101ea.pdf"
+    },
+    "Medical School Bulk Chemical Stores": {},
+    "Portaloo Bunny Farm": {},
+    "Queens Medical Centre (QMC)": {},
+    "Riverside Sports Complex - Club House": {},
+    "Riverside Sports Complex - Pavilion A": {},
+    "Riverside Sports Complex - Pavilion B": {},
+    "Riverside Sports Ground": {},
+    "Ropewalk House": {},
+    "Rutherford Appleton Laboratory": {},
+    "St Michaels Flat 01": {},
+    "St Michaels Flat 02": {},
+    "St Michaels Flat 03": {},
+    "St Michaels Flat 04": {},
+    "St Michaels Flat 05": {},
+    "St Michaels Flat 06": {},
+    "St Michaels Flat 07": {},
+    "St Michaels Flat 08": {},
+    "St Michaels Flat 09": {},
+    "St Michaels Flat 10": {},
+    "St Michaels Flat 11": {},
+    "St Michaels Flat 12": {},
+    "St Michaels Flat 13": {},
+    "St Michaels Flat 14": {},
+    "St Michaels Flat 15": {},
+    "The Boathouse Store": {},
+    "The University of Nottingham International College": {},
+    "The Vaughan Parry Williams Pavilion": {
+      "a": "https://www.nottingham.ac.uk/estates/documents/accessplans/6314aa.pdf",
+      "b": "https://www.nottingham.ac.uk/estates/documents/accessplans/6314ba.pdf"
+    },
+    "Tractor Fuel Tank Bunny Farm": {},
+    "Tractor Shed, Bunny": {},
+    "Unit 4, Easter Park": {}
+  }
+}

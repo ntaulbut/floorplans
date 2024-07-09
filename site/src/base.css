@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Rajdhani:wght@400;500;600;700&display=swap');
+
+body {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font: 18px/1.5 "JetBrains Mono", monospace;
+    color: #5ef6ff;
+    background: #0e0e17;
+    display: flex;
+    gap: 40px;
+}
+
+@media (width < 800px) {
+    body {
+        flex-direction: column;
+    }
+}
+
+h1:nth-of-type(1) {
+    margin-top: 0;
+}
+
+footer {
+    padding-top: 30px;
+}
+
+ul {
+    margin: 0;
+}
+li::marker {
+    content: "> ";
+}
+
+a {
+    text-underline-offset: 5px;
+    color: #5ef6ff;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+    color: #f75049;
+}
+
+.icon-value {
+    display: flex;
+    gap: 10px;
+}
+
+.icon-value a {
+    color: #f75049;
+}
+
+/*
+    CyberPallete
+    red #f75049 blue #5ef6ff white #fff black #0e0e17
+
+    grey #d6d0d0
+    green #1ded83
+    blue #2570d4
+    purple #9d2bf5
+    orange #fb832e
+    gold #f0b537
+*/
