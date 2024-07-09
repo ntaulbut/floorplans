@@ -1,0 +1,10 @@
+{% extends "base.html.jinja" %}
+{% from "list.html.jinja" import list %}
+{% block title %}All{% endblock %}
+{% block main %}
+<h1>All</h1>
+{% for campus, buildings in data.items() %}
+<h2>{{ campus }}</h2>
+{{ list(buildings) }}
+{% endfor %}
+{% endblock %}

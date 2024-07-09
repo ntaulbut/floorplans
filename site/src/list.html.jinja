@@ -1,0 +1,16 @@
+{% macro list(campus_data) %}
+    {% for building, floors in campus_data.items() %}
+        {% if floors|length > 0 %}
+            <h3>{{ building }}</h3>
+            <ul>
+            {% for name, url in floors.items() %}
+                <li>
+                    <a href="{{ url }}" target="_blank">
+                        {{ name|upper }} Floor
+                    </a>
+                </li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+    {% endfor %}
+{% endmacro %}

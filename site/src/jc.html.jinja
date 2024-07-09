@@ -1,0 +1,7 @@
+{% extends "base.html.jinja" %}
+{% from "list.html.jinja" import list %}
+{% block title %}Jubilee Campus{% endblock %}
+{% block main %}
+<h1>Jubilee Campus</h1>
+{{ list(data["Jubilee Campus"]) }}
+{% endblock %}
