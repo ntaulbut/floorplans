@@ -2,7 +2,7 @@
 
 body {
     max-width: 1000px;
-    margin: 40px auto;
+    margin: 40px auto 150px auto;
     padding: 0 10px;
     font: 18px/1.5 "JetBrains Mono", monospace;
     color: #5ef6ff;
@@ -42,7 +42,7 @@ a {
 }
 
 h1, h2, h3 {
-    line-height: 1.2;
+    line-height: 1;
     color: #f75049;
 }
 
