@@ -1,1 +1,1 @@
-simple build --data=../floorplans.json src dist
+simple build --data=../data/floorplans.json src dist
