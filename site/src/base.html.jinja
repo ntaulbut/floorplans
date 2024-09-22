@@ -12,8 +12,9 @@
         <meta name="msapplication-config" content="/icons/browserconfig.xml">
         <meta name="theme-color" content="#ffffff">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/base.css">
+        <link rel="stylesheet" href="css/base.css?v=2">
         <title>{% block title %}{% endblock %} Floorplans</title>
+        {{ dev_script }}
     </head>
     <body>
         <nav>
@@ -29,6 +30,36 @@
         <main>
             {% block main %}
             {% endblock %}
+            <button id="go-to-top" type="button" style="display: none; position: fixed; bottom: 20px; right: 20px; cursor: pointer">
+                <img src="img/up.svg" style="height: 60; width: 60px;">
+            </button>
+            <script>
+                const button = document.querySelector("#go-to-top");
+                button.onclick = () => {
+                  window.scrollTo({"top": 0, "behavior": "smooth"})
+                }
+                onscroll = (event) => {
+                  if (window.scrollY > 0) {
+                      button.style.display = "block";
+                  } else {
+                      button.style.display = "none";
+                  }
+                }
+            </script>
+            <style>
+                button {
+                    animation: fly_in ease-in-out 0.4s;
+                }
+                @keyframes fly_in {
+                    to {
+                        transform: translateX(0);
+                    }
+                    from {
+                        transform: translateX(100vw);
+                    }
+                }
+            </style>
+            </div>
         </main>
     </body>
 </html>

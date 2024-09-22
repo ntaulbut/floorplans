@@ -36,6 +36,12 @@ li::marker {
     content: "> ";
 }
 
+button {
+    border: none;
+    padding: 0;
+    background: rgb(14, 14, 23, 50%)
+}
+
 a {
     text-underline-offset: 5px;
     color: #5ef6ff;
